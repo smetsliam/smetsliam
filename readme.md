@@ -35,8 +35,4 @@ When I'm not coding, you can find me playing **badminton** 🏸 or just being **
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smetsliam&layout=compact&theme=radical)
 
-#### Contributions
-
-![Liam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smetsliam&theme=radical)
-
 ---
